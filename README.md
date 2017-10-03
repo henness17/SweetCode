@@ -5,6 +5,7 @@ Below, you can find my article tutorials hosted on Dev.to, along with their vide
 - 002: Node.js External Routes ([Article](https://dev.to/ryhenness/external-routes-with-nodejs-1ni), [Video](https://www.youtube.com/watch?v=ctUH5Hj6WLM))
 - 003: Auto-Deploy a Node.js Server: Heroku + GitHub (~~Article~~, ~~Video~~)
 - 004: Server-Side Rendering: Node.js + EJS (~~Article~~, ~~Video~~)
+- 005: User Authentication: Facebook + Passport.js (~~Article~~, ~~Video~~)
 ## Article Listing
 You can find a full list of articles on my Dev.to profile [here](https://dev.to/ryhenness).
 
