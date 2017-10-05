@@ -1,5 +1,5 @@
 {
-  "name": "just-doing-junk",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.heroku.com/just-doing-junk.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
