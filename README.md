@@ -6,6 +6,7 @@ Below, you can find my article tutorials hosted on Dev.to, along with their vide
 - 003: Auto-Deploy a Node.js Server: Heroku + GitHub ([Article](https://dev.to/ryhenness/auto-deploy-a-nodejs-server-heroku--github-em), ~~Video~~)
 - 004: Server-Side Rendering: Node.js + EJS (~~Article~~, ~~Video~~)
 - 005: User Authentication: Facebook + Passport.js (~~Article~~, ~~Video~~)
+- 006: Node.js Twitter Bot: Bogus Definition (~~Article~~, ~~Video~~)
 ## Article Listing
 You can find a full list of articles, and recent activity on my Dev.to profile [here](https://dev.to/ryhenness).
 
