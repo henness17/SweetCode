@@ -21,13 +21,10 @@ var bot = new twit({
 
 // Callback chain
 var sendTweet = function(){
-  var randomWord;
   getWord(nowGetRhymingWord);
   function nowGetRhymingWord(randomWord){
-    var rhymingWord;
     getRhymingWord(randomWord, nowGetRhymingDef);
     function nowGetRhymingDef(rhymingWord){
-      var definition;
       getRhymingDef(rhymingWord, nowReturnTweet);
       function nowReturnTweet(definition){
         var wordAndDef = capitalizeFirstLetter(randomWord) + ": " + rhymingDef;
