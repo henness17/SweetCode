@@ -38,7 +38,12 @@ var sendTweet = function(){
     }
   }
 }
-sendTweet(); // Starts the bot
+ 
+// Send tweet every 28 minutes, and on start
+setInterval(function() {
+  sendTweet();
+}, 1700000);
+sendTweet();
 
 // Global variables needed to create the tweet
 var randomWord;
