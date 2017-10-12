@@ -9,4 +9,3 @@ Below, you can find my article tutorials hosted on Dev.to, along with their vide
 - 006: User Authentication: Facebook + Passport.js (~~Article~~, ~~Video~~)
 ## Article Listing
 You can find a full list of articles, and recent activity on my Dev.to profile [here](https://dev.to/ryhenness).
-
