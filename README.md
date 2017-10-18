@@ -5,7 +5,7 @@ Below, you can find my article tutorials hosted on Dev.to, along with their vide
 - 002: Node.js External Routes ([Article](https://dev.to/ryhenness/external-routes-with-nodejs-1ni), [Video](https://www.youtube.com/watch?v=ctUH5Hj6WLM))
 - 003: Auto-Deploy a Node.js Server: Heroku + GitHub ([Article](https://dev.to/ryhenness/auto-deploy-a-nodejs-server-heroku--github-em), ~~Video~~)
 - 004: Node.js Twitter Bot: Bogus Definition ([Article](https://dev.to/ryhenness/nodejs-twitter-bot-bogus-definition-dmm), ~~Video~~)
-- 005: The Path to Conquering Asynchronous JavaScript ([Article]())
+- 005: The Path to Conquering Asynchronous JavaScript ([Article](https://dev.to/ryhenness/the-path-to-conquering-async-javascript-1pl), ~~Video~~)
 - 006: Server-Side Rendering: Node.js + EJS (~~Article~~, ~~Video~~)
 - 007: User Authentication: Facebook + Passport.js (~~Article~~, ~~Video~~)
 ## Article Listing
