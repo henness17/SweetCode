@@ -10,4 +10,4 @@ Below, you can find my article tutorials hosted on Dev.to, along with their vide
 - 007: User Authentication: Facebook + Passport.js (~~Article~~, ~~Video~~)
 ## Article Listing
 You can find a full list of tutorials, articles, and recent activity on my Dev.to profile [here](https://dev.to/ryhenness).
-- ![Let's Solve: Code Challenge - Picking Numbers](https://dev.to/ryhenness/lets-solve-code-challenge---picking-numbers-a32) 🔥
+- [Let's Solve: Code Challenge - Picking Numbers](https://dev.to/ryhenness/lets-solve-code-challenge---picking-numbers-a32) 🔥
