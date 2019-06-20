@@ -1,0 +1,12 @@
+<script src="player-bundle.js"></script>
+<body>
+  <button onclick="play()">Play</button>
+  <button onclick="pause()">Pause</button>
+  Volume: <input type="range" min="0" max="100" value="80" class="slider" id="volume-range">
+</body>
+<script>
+    var volume = document.getElementById("volume-range");
+    volume.oninput = function () {
+        setVolume(this.value);
+    }
+</script>
